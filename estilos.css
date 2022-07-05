@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(255, 255, 255, 0.781);
+}
+
+h1{
+    font-family: lobster;
+    display:flex;
+    justify-content:center;
+  
+}
+.formulario {
+         
+    font-family: lobster;
+    background-color: aqua;
+    border-spacing: 380px0px;
+   border-style: double;
+   border-width: 5px;
+    border-color: rgb(7, 7, 7);
+    margin-top: 5%     ;
+    margin-left: 35%;
+    margin-right: 45%;
+    align-content: center;
+   
+}
+
+.boton{
+    display:flex;
+    justify-content:center;
+    margin-bottom: 20px;
+    background-color: rgb(11, 206, 164);
+    font-family: lobster;  
+ 
+}
+
+.textarea{
+    justify-content: center;
+    font-family: lobster; 
+    justify-content: center;
+    background-color: rgb(11, 206, 164);
+    margin-left: 2.5px;
+}   
